@@ -47,3 +47,6 @@ li{
     margin-left: 50px;
     list-style: circle;
 }
+.zuma-text > p, .convo-zuma {
+    background-color: #DDDDDD;
+}
