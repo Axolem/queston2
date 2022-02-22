@@ -28,10 +28,13 @@ img{
 .rama-text{
     border: 1px solid black;
     padding: 20px;
+    width: 700px;
+    margin: 0 250px 250px 0;
 }
 .zuma-text{
     border: 1px solid black;
     padding: 20px;
+    width: 700px;
 }
 li{
     margin: 2.5px;
