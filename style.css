@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+img{
+    height: 200px;
+    width: 300px;
+    margin: 5px;
+}
+.main{
+    margin: 0 50px;
+    border: 1px solid black;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 25px;
+}
+.bold{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.left{
+ width: 30%
+}
+.right{
+    margin-left: 2px;
+    color: white;
+}
+.rama-text{
+    border: 1px solid black;
+    padding: 20px;
+}
+.zuma-text{
+    border: 1px solid black;
+    padding: 20px;
+}
+li{
+    margin: 2.5px;
+}
